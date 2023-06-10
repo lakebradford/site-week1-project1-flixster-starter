@@ -42,8 +42,7 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-"https://drive.google.com/file/d/1q32x8rODkychGtACpxNWrdiOQVcFdQvf/view?usp=drive_link"
-The video is in the Repository
+"https://www.loom.com/share/afaf2c172211428d80ab6942407bceed"
 
 ### Reflection
 
