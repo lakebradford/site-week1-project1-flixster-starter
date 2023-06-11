@@ -42,7 +42,7 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-"https://www.loom.com/share/afaf2c172211428d80ab6942407bceed"
+"https://www.loom.com/share/06783f76d6954d718f4bf61b095566f1"
 
 ### Reflection
 
@@ -56,7 +56,7 @@ If I had more time, I would have added more accesibility features and worked on 
 
 - Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-I had a difficult time starting the assignment especially since there was no starting code or guidance in the instructions, but I believe it helped me grow as a developer since I had nothing to go on. I did not expect to spend so much time working on CSS and thought the majority of my time would be spent working on the backend. 
+I had a difficult time starting the assignment especially since there was no starting code or guidance in the instructions, but I believe it helped me grow as a developer since I had nothing to go on. I did not expect to spend so much time working on CSS and thought the majority of my time would be spent working on the backend. I also had difficulty adding my vdeo to the project itself
 
 ### Open-source libraries used
 
